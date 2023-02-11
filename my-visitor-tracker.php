@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: My Visitor Tracker
-Plugin URI: https://www.example.com/
+Plugin URI: https://www.xunika.uk/
 Description: A simple plugin to track visitor IP addresses and locations.
 Version: 1.1.0
 Author: xunika.uk&ChatGPT
